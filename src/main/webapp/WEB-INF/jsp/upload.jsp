@@ -9,6 +9,11 @@
     Created on : 17 Ιουν 2019, 10:20:19 πμ
     Author     : minas
 --%>
+<%-- 
+    Document   : addStudent
+    Created on : 17 Ιουν 2019, 10:20:19 πμ
+    Author     : minas
+--%>
 <%@ taglib uri="http://www.springframework.org/tags" prefix="spring"%>  
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
